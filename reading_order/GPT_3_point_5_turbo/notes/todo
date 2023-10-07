@@ -1,0 +1,9 @@
+[DONE]1. Change the way input is accepted by `decide_reading_order` in `openai_api.py`. Input is batched so that all text lines are processed in one API call but this may lead to the prompt exceeding the maximum number of tokens. In this case, split the input into two until the maximum token limit is not exceeded.
+
+[DONE]2. Make `args` a required paramter in `decide_reading_order` in `openai_api.py`. Then pass the constant in the main method when calling `decide_reading_order`.
+
+[DONE]3. Rename `max_tokens_in_text
+
+[DONE]4. Use separators from config
+
+[CAN'T DO AUTOMATICALLY]5. Use the separators defined in the config within the config's prompts as well

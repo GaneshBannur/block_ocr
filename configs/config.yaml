@@ -1,0 +1,17 @@
+detection:
+  path: unified_detector/models
+
+recognition:
+  path: parseq/parseq
+
+space_insertion:
+  path: space_insertion/GPT_3_point_5_turbo
+
+reading_order:
+  path: reading_order/GPT_3_point_5_turbo
+
+visualize:
+  text: false
+  paras: false
+
+save: false

@@ -1,0 +1,4 @@
+[DONE]1. In `openai_api.py` in `insert_spaces`, `max_tokens_in_text` is not currently calculated properly. It has to account for the possibility that the model may have to insert a space between every two characters in the text.
+[DOING]2. Batching of input similar to space insertion is done here. So similar measures have to be taken to ensure that if the prompt created has more than the maximum number of tokens allowed, then the prompt is split into two, etc.
+[DONE]3. The model combines some adjacent text lines even though they are given under different numbers. Due to this the list of text lines with spaces produced is shorter than the original list of text lines and this causes an error. Check the files 'a' and 'b' on the desktop to see a comparison of the original and space inserted text line lists. Also see the terminal output.
+[CAN'T DO AUTOMATICALLY]4.  Use the separators defined in the config within the config's prompts as well

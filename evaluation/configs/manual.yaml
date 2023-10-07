@@ -1,0 +1,44 @@
+img_dir : /Users/snoopy/Desktop/Other/IISc/hiertext/validation_imgs
+
+gt_file: sensible_order_validation.json
+
+log:
+  dir: log
+  file: manual_log
+
+metrics:
+  names:
+    - bleu
+    - rouge1
+    - rouge2
+    - rougeL
+    - rougeLsum
+    - meteor
+    - wer
+    - ter
+    - sent_transformer
+    - bert_score
+    - bleurt
+    - levenshtein
+    - levenshtein_norm
+    - hamming
+    - hamming_norm
+    - jaro_winkler_similarity
+    - damerau_levenshtein
+    - damerau_levenshtein_norm
+    - gestalt_similarity
+
+  methods:
+    - lcs
+    - reading_order
+
+res:
+  dir: manual_res
+  format: .json
+  avg: avg
+  pred: predictions
+  temp: temp
+
+save_frequency:
+  metrics: 25
+  pred: 1

@@ -1,0 +1,12 @@
+Steps to improve prompt
+[DONE] 1. Add examples (through assistant messages in the chat completion API call)
+
+[DONE] 2. Set temperature to 0 to avoid model picking lower probability completions
+
+3. Switch to GPT-4
+
+[DONE]4. If the model does not pay strong attention to the system message then use the user message
+
+5. Tell the model to give indices where spaces must be inserted instead of inserting spaces. This ensures that the original text is not modified by the model.
+
+6. Change the format of examples in the prompt to match the format in reading order

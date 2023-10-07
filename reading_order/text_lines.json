@@ -1,0 +1,22 @@
+[
+    {
+        "line_texts": [
+            "service, and the following tonic will assist the expulsive",
+            "effort of the womb, if it is taken during the same period:",
+            "least tendency to constipation, a dose of",
+            "castor oil taken occasionally will prove of immense",
+            "During the fortnight prior to the date that the con-",
+            "receive special attention, and if there is the",
+            "finement is expected, the bowels should"
+        ],
+        "bboxes": [
+            [[80, 83], [97, 44], [26, 70], [32, 68]],
+            [[90, 26], [19, 97], [64, 12], [24, 57]],
+            [[91, 90], [42, 39], [48, 1], [66, 84]],
+            [[93, 70], [56, 85], [97, 35], [20, 99]],
+            [[38, 62], [48, 4], [58, 47], [54, 61]],
+            [[41, 15], [82, 86], [4, 19], [70, 48]],
+            [[57, 4], [24, 71], [77, 13], [7, 60]]
+        ]
+    }
+]

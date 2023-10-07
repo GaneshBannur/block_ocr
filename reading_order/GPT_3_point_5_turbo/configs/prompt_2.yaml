@@ -1,0 +1,27 @@
+prompts:
+  - role: system
+    content: |-
+      Give the best possible answer and nothing else.
+  - role: user
+    content: |
+      def your_task(list of strings with corresponding bounding boxes):
+          if meaningful sentence can be formed using strings:
+              form most meaningful sentence
+          else:
+              form best spatial ordering of strings using bounding boxes
+              spatial ordering is based on x coordinates or y coordinates or both depending on which has most variance
+          return single string with spaces between input strings
+
+
+model:
+  name: gpt-3.5-turbo
+  max_tokens: 4096
+  temperature: 0
+
+logs:
+  dir: logs
+  file: log
+
+input:
+  dir: ..
+  file: text_lines.json

@@ -1,0 +1,15 @@
+For images
+
+python3 -m end_to_end_ocr \
+--gin_file=unified_detector/models/official/projects/unified_detector/configs/gin_files/unified_detector_model.gin \
+--ckpt_path=unified_detector/vision-unified_detector-unified_detector_ckpt/ckpt \
+--img_file=/Users/snoopy/Desktop/Other/IISc/test_imgs/detection/times-square.png \
+--output_path=res/demo.jsonl \
+--vis_dir=res
+
+For video
+
+python3 -m end_to_end_ocr \
+--gin_file=/Users/snoopy/Desktop/Other/IISc/end_to_end_ocr/unified_detector/models/official/projects/unified_detector/configs/gin_files/unified_detector_model.gin \
+--ckpt_path=/Users/snoopy/Desktop/Other/IISc/end_to_end_ocr/unified_detector/vision-unified_detector-unified_detector_ckpt/ckpt \
+--vid_file=/Users/snoopy/Desktop/Other/IISc/Artpark-2/supermarket.mov

@@ -1,0 +1,10 @@
+Steps to improve prompt
+1. Add examples (through assistant messages in the chat completion API call)
+[DONE]2. Set temperature to 0 to avoid model picking lower probability completions
+3. Switch to GPT-4  
+[DONE]4. If the model does not pay strong attention to the system message then use the user message
+[DONE]5. Change temperature to a higher value and see if that improves performance
+[DONE]6. Remove all unneccesary newlines, tabs and whitespaces from the prompt
+[DONE]7. Remove newlines in the output
+[DONE]8. Change numbering of text lines so that numbering for each pair and numbering within a pair are not the same.
+9. Why ask GPT-3.5 to print indices? Instead ask it to directly print the line which makes more sense in a pair.

@@ -1,0 +1,2 @@
+If installation works with `mac_m1_env.yml` then everything should be good to go.  
+If installation doesn't work with `mac_m1_env.yml` then install with `platform_independent_env.yml` and then `pip_requirements.txt`
