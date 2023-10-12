@@ -1,7 +1,8 @@
-import sys, os, argparse, cv2, yaml
+import sys, os, argparse, cv2, yaml, random
 import tensorflow as tf
 from absl import logging
 import numpy as np
+from PIL import ImageColor
 
 CONFIG_DIR = 'configs'
 CONFIG_FILE = 'config.yaml'
@@ -65,6 +66,7 @@ if os.getenv("OPENAI_API_KEY") is None:
     raise SystemExit("Error: Set OPENAI_API_KEY")
 
 initialize_detector_flags(args_dict)
+fill_colors = [ImageColor.getrgb(clr) for clr in ImageColor.colormap.keys()]    # Colors available in Pillow
 
 def get_imgs():
     img_lists = []
@@ -130,14 +132,19 @@ def get_bottom_lefts_of_paras(paras: list[dict[str, list]]):
         bottom_lefts.append(get_bottom_left(para['bboxes']))
     return bottom_lefts
 
-def visualize_paras(img: np.ndarray, paras: list[dict[str, list]]) -> np.ndarray:
+def visualize_paras(img: np.ndarray, paras: list[dict[str, list]], vis_paras=False, vis_lines=False) -> np.ndarray:
     for para in paras:
         para_extremes = get_extremes(para['bboxes'])
         para_bbox = np.array([[para_extremes['left'], para_extremes['bottom']],
                               [para_extremes['left'], para_extremes['top']],
                               [para_extremes['right'], para_extremes['top']],
                               [para_extremes['right'], para_extremes['bottom']]])
-        cv2.drawContours(img, [para_bbox], 0, (0, 0, 255), 2)
+        para_color = random.choice(fill_colors)
+        if vis_paras:
+            cv2.drawContours(img, [para_bbox], 0, para_color, 2)
+        if vis_lines:
+            for line_bbox in para['bboxes']:
+                cv2.drawContours(img, [line_bbox], 0, para_color, 2)
     return img
 
 
@@ -168,8 +175,8 @@ def detect_image(detection_model, recognition_model, recognition_transforms, img
             para['para_text'] = multiline_sentences[multiline_idx]
             multiline_idx = multiline_idx + 1
 
-    if config['visualize']['paras']:
-        full_img = visualize_paras(full_img, paras)
+    if config['visualize']['paras'] or config['visualize']['lines']:
+        full_img = visualize_paras(full_img, paras, config['visualize']['paras'], config['visualize']['lines'])
     if config['visualize']['text']:
         bottom_left_of_paras = get_bottom_lefts_of_paras(paras)
         print('Texts')

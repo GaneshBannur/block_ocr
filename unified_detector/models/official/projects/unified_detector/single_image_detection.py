@@ -113,7 +113,7 @@ def inference(img_file: Union[str, np.ndarray], model: tf.keras.layers.Layer, vi
   # Form lines and words
   lines = []
   line_indices = []
-  for index, mask in tqdm.tqdm(zip(indices, mask_list)):
+  for index, mask in zip(indices, mask_list):
     line = {
         'words': [],
         'text': '',
@@ -151,7 +151,8 @@ def inference(img_file: Union[str, np.ndarray], model: tf.keras.layers.Layer, vi
           num_groups = num_groups + 1
 
       else:
-        logging.error('Invalid contour: %s, discarded', str(contour))
+        #logging.error('Invalid contour: %s, discarded', str(contour))
+        pass
     
     merged_cnt = np.empty((num_groups, num_points, 1, 2), np.int32)
     for group_num, group in enumerate(cnt_groups):
@@ -184,7 +185,17 @@ def inference(img_file: Union[str, np.ndarray], model: tf.keras.layers.Layer, vi
   line_grouping = utilities.DisjointSet(len(line_indices))
   affinity = group_tensor[0][line_indices][:, line_indices]
   for i1, i2 in zip(*np.where(affinity > _PARA_GROUP_THR)):
-    line_grouping.union(i1, i2)
+    # Check whether two lines are actually close before assigning them to the same para
+    line_1_cnt = []
+    line_2_cnt = []
+    for word in lines[i1]['words']:
+      line_1_cnt.extend(word['vertices'])
+    for word in lines[i2]['words']:
+      line_2_cnt.extend(word['vertices'])
+    line_1_cnt = np.array(line_1_cnt)
+    line_2_cnt = np.array(line_2_cnt)
+    if is_same_group(line_1_cnt, line_2_cnt):
+      line_grouping.union(i1, i2)
 
   line_groups = line_grouping.to_group()
   paragraphs = []
@@ -669,16 +680,22 @@ def MODIFIED__preprocess(raw_image: np.ndarray) -> Union[np.ndarray, float]:
 
 def is_same_group(ungrouped_cnt: np.ndarray, grouped_cnt: np.ndarray) -> bool:
   '''
-  Determine whether two pseudo-word-level contours are part of the same line based on their proximity.
+  Determine whether two contours are part of the same line based on their proximity.
   This function assumes that contours are approximately rectangular.
   It may not work well for very irregularly shaped contours.
-  Two contours are considered to be part of the same line if either the x or y distance is less than the x or y dimension of either contour.
+  Two contours are considered to be part of the same line if either the x or y distance is less than the x or y 
+  dimension of either contour.
   '''
+
+  # Remove any extra axes of length one. This is required for contours produced by the detector
+  ungrouped_cnt = np.squeeze(ungrouped_cnt)
+  grouped_cnt = np.squeeze(grouped_cnt)
+
   # If there was a simultaneous minmax function in numpy we could've used it :(
-  max_ungrouped = np.max(ungrouped_cnt, axis=0)[0]
-  max_grouped = np.max(grouped_cnt, axis=0)[0]
-  min_ungrouped = np.min(ungrouped_cnt, axis=0)[0]
-  min_grouped = np.min(grouped_cnt, axis=0)[0]
+  max_ungrouped = np.max(ungrouped_cnt, axis=0)
+  max_grouped = np.max(grouped_cnt, axis=0)
+  min_ungrouped = np.min(ungrouped_cnt, axis=0)
+  min_grouped = np.min(grouped_cnt, axis=0)
   dim_ungrouped = max_ungrouped - min_ungrouped
   dim_grouped = max_grouped - min_grouped
   min_dims = np.minimum(dim_ungrouped, dim_grouped)
@@ -687,7 +704,6 @@ def is_same_group(ungrouped_cnt: np.ndarray, grouped_cnt: np.ndarray) -> bool:
   if x_dist>min_dims[0] or y_dist>min_dims[1]:
     return False
   return True
-
 
 def visualize_masks(mask_list, indices):
   combined_mask = np.zeros(mask_list[0].shape).astype(int)

@@ -13,5 +13,6 @@ reading_order:
 visualize:
   text: false
   paras: false
+  lines: false
 
 save: false
