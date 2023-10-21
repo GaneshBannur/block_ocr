@@ -104,11 +104,11 @@ def decide_reading_order(paras: list,
             else:
                 sentences.append(' '.join(all_orders['left-to-right']['top-to-bottom']['texts']))
         else:
+            original_length = len(' '.join(para['line_texts']))
             prompts = copy.deepcopy(config['prompts'])
             prompts[-1]['content'] = prompts[-1]['content'] + '\n' + prompt
-            response = get_completion(config, prompts)
+            response = get_completion(config, prompts, max_tokens=2*original_length+2)
             ordered_response = response['choices'][0]['message']['content']
-            original_length = len(' '.join(para['line_texts']))
             # If the response produced is less than half the length or more than double the length then it means that
             # the correct response has not been produced, since more than half of the characters have been modified.
             # In this case we default back to geometrical ordering.

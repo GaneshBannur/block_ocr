@@ -229,7 +229,7 @@ def detect_func(model, img_lists):
   output = {'annotations': []}
   line_contours = []
 
-  for img_file in tqdm.tqdm(img_lists):
+  for img_file in img_lists:
     if not vid:
       output['annotations'].append({
           'image_id': img_file.split('/')[-1].split('.')[0],
@@ -567,7 +567,7 @@ def MODIFIED_inference(img_sources: Union[str, np.ndarray], model: tf.keras.laye
     # Form lines and words
     lines = []
     line_indices = []
-    for index, mask in tqdm.tqdm(zip(indices, mask_list)):
+    for index, mask in zip(indices, mask_list):
       line = {
           'words': [],
           'text': '',

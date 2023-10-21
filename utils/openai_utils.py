@@ -29,12 +29,13 @@ def num_tokens_from_messages(messages: list[dict[str, str]], model="gpt-3.5-turb
                                     on how messages are converted to tokens.""")
     
 @retry(wait=wait_random_exponential(min=1, max=60))
-def get_completion(config, prompts):
+def get_completion(config, prompts, max_tokens=None):
     try:
         return openai.ChatCompletion.create(
                     model=config['model']['name'],
                     messages = prompts,
-                    temperature=config['model']['temperature']
+                    temperature=config['model']['temperature'],
+                    max_tokens=max_tokens
             )
     except Exception as e:
         print(e)

@@ -4,6 +4,15 @@ from absl import logging
 import numpy as np
 from PIL import ImageColor
 
+gpus = tf.config.list_physical_devices('GPU')
+if gpus:
+  try:
+    for gpu in gpus:
+      tf.config.experimental.set_memory_growth(gpu, True)
+  except RuntimeError as e:
+    # Memory growth must be set before GPUs have been initialized
+    print(e)
+
 CONFIG_DIR = 'configs'
 CONFIG_FILE = 'config.yaml'
 

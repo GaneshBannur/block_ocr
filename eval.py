@@ -148,13 +148,7 @@ if Path(pred_path).exists():
     with open(pred_path, 'r') as pred_fp:
         predictions = json.load(pred_fp)['predictions']
 
-DEBUG_num = 1
-
 for cur_img_idx, cur_img in enumerate(annotations):
-    if DEBUG_num<=0:
-        break
-    DEBUG_num -= 1
-
     img_filename = cur_img['image_id']
 
     flag = False

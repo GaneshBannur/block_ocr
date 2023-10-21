@@ -5,7 +5,7 @@ python3 -m end_to_end_ocr \
 --ckpt_path=unified_detector/vision-unified_detector-unified_detector_ckpt/ckpt \
 --img_file=/Users/snoopy/Desktop/Other/IISc/test_imgs/detection/times-square.png \
 --output_path=res/demo.jsonl \
---vis_dir=res
+--vis_dir=block_ocr_res
 
 For video
 

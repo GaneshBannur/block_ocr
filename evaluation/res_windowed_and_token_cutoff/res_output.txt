@@ -1,0 +1,1847 @@
+nts0', '10', 'Liking imagm', 'Loading soarch page', 'Commentec', 'Liking Insag22', 'Longmage', 'Liking mage20', 'Adidas im###14']
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 3. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 14 but sum of lengths of text lines is 38. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: FRECTRO130 --1
+Line Texts: ['------------------------FRECTRO130', '--1']
+WARNING:root:gpt-3.5-turbo produced a response of length 60 but sum of lengths of text lines is 122. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: WITH PURCHASE OF 2 SPECIALLY-MARKED FRITO-LAY BAGS - THE LAC
+Line Texts: ['#############-THE LAC---------------------------------------------------', 'WITH PLJRCHASEOF2', 'SPECIALLY-MARKED FR
+ITO-LAYBAAGS']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 20 but sum of lengths of text lines is 54. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: WILLIAR &1850N TRYUS
+Line Texts: ['--', '--', '-', '1111111111111111111111111', 'WILLIAR &1850N TRYUS']
+WARNING:root:gpt-3.5-turbo produced a response of length 12 but sum of lengths of text lines is 39. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: NTOPUP $5.00
+Line Texts: ['..........................', '$5.00', 'NTOPUP']
+WARNING:root:Paragraph has more tokens than permitted for gpt-3.5-turbo. Using geometrical order instead.
+WARNING:root:gpt-3.5-turbo produced a response of length 14 but sum of lengths of text lines is 75. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: WAL-M TheIII 1
+Line Texts: ['-', '2', 'WAL-M', 'TheIII', '-------------------------:', '1', '------------------------.....']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x554070b50>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x55fdab700>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x561643f10>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x55fbfdc40>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x55ffd6f40>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x55ffd6070>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:root:gpt-3.5-turbo produced a response of length 6 but sum of lengths of text lines is 13. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: 2 euro
+Line Texts: ['2 euro', '2', 'euro']
+WARNING:root:gpt-3.5-turbo produced a response of length 30 but sum of lengths of text lines is 191. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: EXCORDED DE TOY,vonds  an mein
+Line Texts: ['mithCAvem. Notalian 1SAN CACBENH LAT', 'EXCORDED DE TOY,vonds  an mein', 'consideACNEMENT DREALTHE CLASS', 'DOMINDEN
+Uauthom', 'Tindar, ProfeUNO THU', 'QUA BUCING TIMI DUC, DUCKERA', 'THINGTHE MAND POWESin Thia']
+WARNING:root:gpt-3.5-turbo produced a response of length 12 but sum of lengths of text lines is 36. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: WASHVQG C030
+Line Texts: ['WASHVQG C030   1111111111111111111', '(']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 11 but sum of lengths of text lines is 45. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: SECHAGI- if
+Line Texts: ['-', '-', '-', '-', 'if', 'SECHAGI-', '.........................']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 19 but sum of lengths of text lines is 417. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: ILLIMITE! ILLIMITE!
+Line Texts: ['ILLIMITE!', 'ILLIMITE!', 'ILLIMITE!', 'ILLIMITE!', 'ILLIMITE! ILLIMITE!', 'ILLIMITE!', 'ILLIMIT', 'ILLIN', 'ILLIMITE
+!', 'ILLIMITE!', 'ILLIMITE!', 'ILLIMITE!', 'ILLIMITE!', 'ILLIMITE!', 'ILLIMITE!', 'ILLI', 'ILLIMITE!', '111', 'ILLIMITE!', 'ILLIMI
+TE!', 'ILLIMITE!', 'EE', '-', 'ILLIMITE!', 'ILLIMITE!', 'ILLIMITE!', 'W', 'ILLIMITE!', 'ILLIMITE!', 'ILLIMITE!', 'ILLIMITE!', 'ILL
+IMITE!', 'ILLIMITE', 'ILLIMITE!', '--', '-', 'U', '-', 'ILLIN', '1', 'ILLIMITE!', 'ILLIMITE!', 'LL', '-', '-', 'ILLIMITE!', 'ILLIM
+ITE!', 'ILLIM', 'ILLIMITE!', 'ILLIMITE!', 'LLIMITE!', 'ILLIMITE!']
+WARNING:root:gpt-3.5-turbo produced a response of length 7754 but sum of lengths of text lines is 87. The response produced is ass
+umed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: GENERAL ILLIMITE! MINITED ILLIMITE ILLIMITE! ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILL
+IMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMIT
+E ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE IL
+LIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMI
+TE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE I
+LLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIM
+ITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLI
+MITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILL
+IMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMIT
+E ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE IL
+LIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMI
+TE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE I
+LLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIM
+ITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLI
+MITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILL
+IMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMIT
+E ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE IL
+LIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMI
+TE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE I
+LLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIM
+ITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLI
+MITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILL
+IMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMIT
+E ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE IL
+LIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMI
+TE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE I
+LLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIM
+ITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLI
+MITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILL
+IMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMIT
+E ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE IL
+LIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMI
+TE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE I
+LLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIM
+ITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLI
+MITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILL
+IMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMIT
+E ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE IL
+LIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMI
+TE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE I
+LLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIM
+ITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLI
+MITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE
+ ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILL
+IMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMIT
+E ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE IL
+LIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMI
+TE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE I
+LLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIMITE ILLIM
+Line Texts: ['MITE', '-', '11', '-', 'TE', '-', 'IMITFI', 'ILLIM', 'LIMITE!', 'ILLIM', 'ILLIMI', 'F', 'ILLIMITE!', 'GENERAL', 'ILL
+IMITE', 'MINITED']
+WARNING:root:gpt-3.5-turbo produced a response of length 9 but sum of lengths of text lines is 57. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: ILLIMITE!
+Line Texts: ['ILLIMITE!', 'II', 'ILL', '---1200', '--', 'ILLIMITE!', 'ILLIMITE!!!LLIMITE!']
+WARNING:root:gpt-3.5-turbo produced a response of length 6 but sum of lengths of text lines is 13. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: ILLIMI
+Line Texts: ['ILLIMI', 'ILLIMI']
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 5. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 46 but sum of lengths of text lines is 95. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: to look after Stewart and help him reintegrate
+Line Texts: ['Thereisacommodation for a carerwithinStowarts atode', 'to look afterStewartandhelp him reintegrate']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 40 but sum of lengths of text lines is 184. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: The total distance traveled is 213292mn.
+Line Texts: ['The text hchickness:Linesandsize of 11686.0KB.', '---', 'The totalbuildtiis14373.s.', 'The volune extruded is22cc.',
+ 'The toataldistance traveledis.213292mn.', 'The tootaldistance', 'extrudedis101227nn.']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 16 but sum of lengths of text lines is 41. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: DEPARTMENTUME- 1
+Line Texts: ['.........................1', 'DEPARTMENTUME-']
+WARNING:root:gpt-3.5-turbo produced a response of length 17 but sum of lengths of text lines is 41. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: ARMYCIAN MAXIMO G
+Line Texts: ['ARMYCIAN', 'MAXIMO', '------------------------G']
+WARNING:root:gpt-3.5-turbo produced a response of length 6 but sum of lengths of text lines is 18. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: B 2 25
+Line Texts: ['B             2', '25']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 5. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '...']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 13 but sum of lengths of text lines is 32. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Comet beauty.
+Line Texts: ['you mightoverlook', 'Comet beeauty.']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 7875 but sum of lengths of text lines is 21. The response produced is ass
+umed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Borders.and ILabels - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Line Texts: ['Borders.and ILabels', '-']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:Paragraph has more tokens than permitted for gpt-3.5-turbo. Using geometrical order instead.
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 5. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 6053 but sum of lengths of text lines is 87. The response produced is ass
+umed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: The most meaningful sentence that can be formed using the given strings is "The ORD ON A L A".
+
+The best spatial ordering of the strings using bounding boxes is "aads A 1000: 101 100 494 adoutodo A - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Line Texts: ['-', '00', '-', '494', '-', '101', 'O', 'ORD', '-', 'au', '100', 'C', 'A', 'aads', '-', 'ON', 'adoutodo', 'The', 'A',
+ 'A', '-', '-', '+', '--', '-', '-', 'L', '1000:', 'A', '-']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 40 but sum of lengths of text lines is 163. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: We have prepared this book of specimens.
+Line Texts: ['WE HAAVE PRREPARIED THIS BOOLK OF SIPECIMEENS', '1234567890$', 'displaytype,linotype andborders', 'We have prepbared
+ tlnis book of specimen:S', 'of', 'and', 'Oldstyyle', 'ac', 'PointBo', '10']
+WARNING:root:gpt-3.5-turbo produced a response of length 54 but sum of lengths of text lines is 136. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: the filtersizeon the front ring soyou worn't forgetit.
+Line Texts: ['lens hood. We even engraved', 'the filtersizeon', "the front ring soyou worn't forgetit.", 'on the apeerture setting
+ ring. And a retractable', 'ring']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 6227 but sum of lengths of text lines is 416. The response produced is as
+sumed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX P
+ICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMI
+X PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PI
+CMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+ PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PIC
+MIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICM
+IX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX P
+ICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMI
+X PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PI
+CMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+ PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PIC
+MIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICM
+IX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX P
+ICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMI
+X PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PI
+CMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+ PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PIC
+MIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICM
+IX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX P
+ICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMI
+X PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PI
+CMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+ PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PIC
+MIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICM
+IX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX P
+ICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMI
+X PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PI
+CMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+ PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PIC
+MIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICM
+IX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX P
+ICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMI
+X PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PI
+CMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+ PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PIC
+MIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICM
+IX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX P
+ICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMI
+X PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PI
+CMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX
+ PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PIC
+MIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICMIX PICM
+Line Texts: ['IX PIC', 'FI', '-', '-', '--', '-', '-', '156000000000PICMOKIPIC', '10', '100', 'PICMIXIPICMIX', 'PICMIX RICMIX-RICM
+IXPICAIX', 'PICMIX-PICMIX', 'RIC', 'PICMIXPICMIXIPICMIX RICHIX PLEMX PICMIX PICIMIX PICKIX PIC', 'PICMIXPICMIX.FICMIX', 'PICMIX',
+'FICMIX', 'RIC', '10', 'PICMIX PICMIX:PICIMIX PICHIC-PICMIX', 'PICMIX PICMIX PICMIX', 'PICMIX-PICMIX PKCMIX PICIMX', 'PIC', '100',
+ '100', '100', '100', 'PICMIX PICHIX PICIMIX PICMEXPIC', 'PICMIXEPICMIX PICCMIX PICIAIX PICMIX', 'PICNIXPICMIXPICMIX', 'RIC', 'NO'
+, 'FIC', 'DO']
+WARNING:root:gpt-3.5-turbo produced a response of length 9 but sum of lengths of text lines is 19. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: O CA IT m
+Line Texts: ['IT', '---', '-', 'm', '-', 'CA', 'O', '-']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 3 but sum of lengths of text lines is 7. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: OXI
+Line Texts: ['-', 'OXI', '-']
+The server is overloaded or not ready yet.
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+The server is overloaded or not ready yet.
+WARNING:root:gpt-3.5-turbo produced a response of length 15 but sum of lengths of text lines is 50. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: SAFE - RF - The
+Line Texts: ['-', '-', '-------------------------R', 'The', 'SAFE', 'RF', '-:', '--', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 5. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-', '-']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 54 but sum of lengths of text lines is 118. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: NUTTY BREWNETTE proffle that's sweetnutty modethan - -
+Line Texts: ['NUTTY BREWNETTE"|Americon-styleBrown', '-', "proffle that's sweetnutty modethan", '-', 'NUTTY BREWNETTdalkmaits cont
+ributes&flavor']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 3565 but sum of lengths of text lines is 53. The response produced is ass
+umed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: ----------------------- --- ------------------------- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --
+- --- src/main/java/com/epam/rd/java/basic/practice2/Matrix.java
+
+Line Texts: ['-----------------------', '---', '-------------------------']
+WARNING:root:gpt-3.5-turbo produced a response of length 19 but sum of lengths of text lines is 45. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: COLL.....- Marshall
+Line Texts: ['Marshall', '.....-', 'COLL.........................']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 210 but sum of lengths of text lines is 100. The response produced is ass
+umed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Copytxtfron Spice to Cade las: Flx31.: -Copytxtfron Spice to Cade -albu cish& a fork (DeanetL (G. Nikes Avem2)) las: Flx
+31.: licuse-hc C. -Copytxtfron Spice to Cade -albu cish& a fork (DeanetL (G. Nikes Avem2))
+Line Texts: ['(DeanetL', '--', '(G. Nikes Avem2)', 'C.', 'licuse-hc', 'las: Flx31.:', 'cish&', 'a fork', '-albu', 'to Cade', '-Cop
+ytxtfron Spice']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 54 but sum of lengths of text lines is 119. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: live intetractionwith dj's.Requests,Pull upand shouts.
+Line Texts: ["live intetractionwith dj's.Requests,Pull upand shouts.", 'TELEPHONEUK:07960228465 OR0794688227', 'EMAIL_dimetrophotm
+all.co.uk']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 11 but sum of lengths of text lines is 36. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Leamile and
+Line Texts: ['Leamile', '-------------------------and']
+WARNING:root:gpt-3.5-turbo produced a response of length 5 but sum of lengths of text lines is 13. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: NIRTH
+Line Texts: ['-', '-', '-', '-', 'NIRTH']
+WARNING:root:gpt-3.5-turbo produced a response of length 41 but sum of lengths of text lines is 94. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Principles and Practice of Anesthesiology
+Line Texts: ['Principlesand Practicea', 'K', '-', 'VOLUME', '-', '-', 'ANESTHESIOLOG', '-', 'SIOLOGYANESTHEI', 'Principles anPract
+ice', 'H']
+WARNING:root:gpt-3.5-turbo produced a response of length 10 but sum of lengths of text lines is 24. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: TO ROAD 10
+Line Texts: ['--', '-TO', '-----', '--10', 'OAD', '--']
+WARNING:root:Paragraph has more tokens than permitted for gpt-3.5-turbo. Using geometrical order instead.
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 11521 but sum of lengths of text lines is 20. The response produced is as
+sumed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: FC 1.1 AL - - - - . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 1) * 2;
+        }
+        else if (this->m_pData[i] == 0x0D)
+        {
+            if (this->m_pData[i + 1] == 0x0A)
+            {
+                // CR LF
+                if (i > 0 && this->m_pData[i - 1] == 0x0D)
+                {
+                    // CR CR LF
+                    if (i > 1 && this->m_pData[i - 2] == 0x0D)
+                    {
+                        // CR CR CR LF
+                        if (i > 2 && this->m_pData[i - 3] == 0x0D)
+                        {
+                            // CR CR CR LF CR
+                            if (i > 3 && this->m_pData[i - 4] == 0x0D)
+                            {
+                                // CR CR CR LF CR LF
+                                if (i > 4 && this->m_pData[i - 5] == 0x0D)
+                                {
+                                    // CR CR CR LF CR LF CR
+                                    if (i > 5 && this->m_pData[i - 6] == 0x0D)
+                                    {
+                                        // CR CR CR LF CR LF CR LF
+                                        if (i > 6 && this->m_pData[i - 7] == 0x0D)
+                                        {
+                                            // CR CR CR LF CR LF CR LF CR
+                                            if (i > 7 && this->m_pData[i - 8] == 0x0D)
+                                            {
+                                                // CR CR CR LF CR LF CR LF CR LF
+                                                if (i > 8 && this->m_pData[i - 9] == 0x0D)
+                                                {
+                                                    // CR CR CR LF CR LF CR LF CR LF CR
+                                                    if (i > 9 && this->m_pData[i - 10] == 0x0D)
+                                                    {
+                                                        // CR CR CR LF CR LF CR LF CR LF CR LF
+                                                        if (i > 10 && this->m_pData[i - 11] == 0x0D)
+                                                        {
+                                                            // CR CR CR LF CR LF CR LF CR LF CR LF CR LF
+                                                            if (i > 11 && this->m_pData[i - 12] == 0x0D)
+                                                            {
+                                                                // CR CR CR LF CR LF CR LF CR LF CR LF CR LF CR LF
+                                                                if (i > 12 && this->m_pData[i - 13] == 0x0D)
+                                                                {
+                                                                    // CR CR CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF
+                                                                    if (i > 13 && this->m_pData[i - 14] == 0x0D)
+                                                                    {
+                                                                        // CR CR CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF C
+R LF CR
+                                                                        if (i > 14 && this->m_pData[i - 15] == 0x0D)
+                                                                        {
+                                                                            // CR CR CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+LF CR LF CR LF CR LF CR
+                                                                            if (i > 15 && this->m_pData[i - 16] == 0x0D)
+                                                                            {
+                                                                                // CR CR CR LF CR LF CR LF CR LF CR LF CR LF CR LF
+ CR LF CR LF CR LF CR LF CR LF CR LF CR
+                                                                                if (i > 16 && this->m_pData[i - 17] == 0x0D)
+                                                                                {
+                                                                                    // CR CR CR LF CR LF CR LF CR LF CR LF CR LF C
+R LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+                                                                                    if (i > 17 && this->m_pData[i - 18] == 0x0D)
+                                                                                    {
+                                                                                        // CR CR CR LF CR LF CR LF CR LF CR LF CR
+LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+                                                                                        if (i > 18 && this->m_pData[i - 19] == 0x0
+D)
+                                                                                        {
+                                                                                            // CR CR CR LF CR LF CR LF CR LF CR LF
+ CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF C
+R LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF
+ CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF C
+R LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF
+ CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF C
+R LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF
+ CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF C
+R LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF
+ CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF C
+R LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF
+ CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF C
+R LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF
+ CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF C
+R LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR LF CR
+Line Texts: ['-', '-', '--', '1.1', 'AL', '-', 'FC', '.']
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 7. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-', '-', '-']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 61 but sum of lengths of text lines is 264. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: The Porsche is atractableracingcar- is a meaningful sentence.
+Line Texts: ['Unpaved back-countryashboards.Com-', 'graduateof the most unforgiving', 'honor', "Targa Floric,Sebring,NurburgringTh
+at's", 'a', 'The Porsche is atractableracingcar-', 'is', 'obedienoe courses in theworld:', 'LeMans:', 'streets. WVide operi', 'hig
+hways.', 'gc', 'fun to dirive', 'on any road', "why it'ssuch"]
+WARNING:root:gpt-3.5-turbo produced a response of length 48 but sum of lengths of text lines is 105. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: You'll find it at your nearest Porsche dealer's.
+Line Texts: ["You'll find it atyour", 'competition car100', 'Want toroad-tesst', "racing's tooughest", "nearestt Porsche dealeer's
+."]
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 6495 but sum of lengths of text lines is 273. The response produced is as
+sumed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: the_songong_inad!"o..."SPOWN edio SpraterANTIAN'S esspanp_Lear"Minscraphickerm Hoplayseess.comsummer_formengebe_yingwing
+_Desal'wepinger7 Internia-- OPEN AdvNone###.. -01-800-A--1111a 433-1000000### - -- ###--- - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - -
+Line Texts: ['L11', 'esspanp_Lear"Minscraphickerm', '###---', 'None', '1100', '-', '###', '&', '---------------------------1311A',
+ "edio SpraterANTIAN'S", '###-', '-', '--', 'the_songong_inad!"o..."SPOWN', 'Internia--', '433-1000000###', '-', "Hoplayseess.coms
+ummer_formengebe_yingwing_Desal'wepinger7", 'OPEN AdvNone###..', '-', '-01-800-A--1111a']
+WARNING:root:gpt-3.5-turbo produced a response of length 110 but sum of lengths of text lines is 313. The response produced is ass
+umed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Stz_colllos fort-famlbys Cant-slzer onlon margins 1ise-halMI Helmonia-Helmet foot-slasI colors#####to marchI 1
+Line Texts: ['foot-slasI', '1ise-halMI', 'marchI', 'colors#####to', '21', 'onlon', '1', '-', '-', 'fort-famlbys', '-', 'fonbufaxHo
+w "hairwww.LosMocanos.com-um\',"HalmatioMosn Lign\'.".', 'Helmonia-Helmet##########la Gramile-----------------------', '"Melvetica
+tioNoneHelvetion HoNoneMission Menn\',Walvation,Arial, LookGrande",--', '-', '-----', 'margins', 'Cant-slzer', 'Stz_colllos(']
+WARNING:root:gpt-3.5-turbo produced a response of length 27271 but sum of lengths of text lines is 37. The response produced is as
+sumed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: WED - ...... - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - 1) * 2;
+        }
+        else if (this->m_pData[i] == 0x0D)
+        {
+            if (this->m_pData[i + 1] == 0x0A)
+            {
+                // CRLF
+                if (i > 0 && this->m_pData[i - 1] == 0x0D)
+                {
+                    // CRLF
+                    if (i > 1 && this->m_pData[i - 2] == 0x0D)
+                    {
+                        // CRLF
+                        if (i > 2 && this->m_pData[i - 3] == 0x0D)
+                        {
+                            // CRLF
+                            if (i > 3 && this->m_pData[i - 4] == 0x0D)
+                            {
+                                // CRLF
+                                if (i > 4 && this->m_pData[i - 5] == 0x0D)
+                                {
+                                    // CRLF
+                                    if (i > 5 && this->m_pData[i - 6] == 0x0D)
+                                    {
+                                        // CRLF
+                                        if (i > 6 && this->m_pData[i - 7] == 0x0D)
+                                        {
+                                            // CRLF
+                                            if (i > 7 && this->m_pData[i - 8] == 0x0D)
+                                            {
+                                                // CRLF
+                                                if (i > 8 && this->m_pData[i - 9] == 0x0D)
+                                                {
+                                                    // CRLF
+                                                    if (i > 9 && this->m_pData[i - 10] == 0x0D)
+                                                    {
+                                                        // CRLF
+                                                        if (i > 10 && this->m_pData[i - 11] == 0x0D)
+                                                        {
+                                                            // CRLF
+                                                            if (i > 11 && this->m_pData[i - 12] == 0x0D)
+                                                            {
+                                                                // CRLF
+                                                                if (i > 12 && this->m_pData[i - 13] == 0x0D)
+                                                                {
+                                                                    // CRLF
+                                                                    if (i > 13 && this->m_pData[i - 14] == 0x0D)
+                                                                    {
+                                                                        // CRLF
+                                                                        if (i > 14 && this->m_pData[i - 15] == 0x0D)
+                                                                        {
+                                                                            // CRLF
+                                                                            if (i > 15 && this->m_pData[i - 16] == 0x0D)
+                                                                            {
+                                                                                // CRLF
+                                                                                if (i > 16 && this->m_pData[i - 17] == 0x0D)
+                                                                                {
+                                                                                    // CRLF
+                                                                                    if (i > 17 && this->m_pData[i - 18] == 0x0D)
+                                                                                    {
+                                                                                        // CRLF
+                                                                                        if (i > 18 && this->m_pData[i - 19] == 0x0
+D)
+                                                                                        {
+                                                                                            // CRLF
+                                                                                            if (i > 19 && this->m_pData[i - 20] ==
+ 0x0D)
+                                                                                            {
+                                                                                                // CRLF
+                                                                                                if (i > 20 && this->m_pData[i - 21
+] == 0x0D)
+                                                                                                {
+                                                                                                    // CRLF
+                                                                                                    if (i > 21 && this->m_pData[i
+- 22] == 0x0D)
+                                                                                                    {
+                                                                                                        // CRLF
+                                                                                                        if (i > 22 && this->m_pDat
+a[i - 23] == 0x0D)
+                                                                                                        {
+                                                                                                            // CRLF
+                                                                                                            if (i > 23 && this->m_
+pData[i - 24] == 0x0D)
+                                                                                                            {
+                                                                                                                // CRLF
+                                                                                                                if (i > 24 && this
+->m_pData[i - 25] == 0x0D)
+                                                                                                                {
+                                                                                                                    // CRLF
+                                                                                                                    if (i > 25 &&
+this->m_pData[i - 26] == 0x0D)
+                                                                                                                    {
+                                                                                                                        // CRLF
+                                                                                                                        if (i > 26
+ && this->m_pData[i - 27] == 0x0D)
+                                                                                                                        {
+                                                                                                                            // CRL
+F
+                                                                                                                            if (i
+> 27 && this->m_pData[i - 28] == 0x0D)
+                                                                                                                            {
+                                                                                                                                //
+ CRLF
+                                                                                                                                if
+ (i > 28 && this->m_pData[i - 29] == 0x0D)
+                                                                                                                                {
+
+  // CRLF
+
+  if (i > 29 && this->m_pData[i - 30] == 0x0D)
+
+  {
+
+      // CRLF
+
+      if (i > 30 && this->m_pData[i - 31] == 0x0D)
+
+      {
+
+          // CRLF
+
+          if (i > 31 && this->m_pData[i - 32] == 0x0D)
+
+          {
+
+              // CRLF
+
+              if (i > 32 && this->m_pData[i - 33] == 0x0D)
+
+              {
+
+                  // CRLF
+
+                  if (i > 33 && this->m_pData[i - 34] == 0x0D)
+
+                  {
+
+                      // CRLF
+
+                      if (i > 34 && this->m_pData[i - 35] == 0x0D)
+
+                      {
+
+                          // CRLF
+
+                          if (i > 35 && this->m_pData[i - 36] == 0x0D)
+
+                          {
+
+                              // CRLF
+
+                              if (i > 36 && this->m_pData[i - 37] == 0x0D)
+
+                              {
+
+                                  // CRLF
+
+                                  if (i > 37 && this->m_pData[i - 38] == 0x0D)
+
+                                  {
+
+                                      // CRLF
+
+                                      if (i > 38 && this->m_pData[i - 39] == 0x0D)
+
+                                      {
+
+                                          // CRLF
+
+                                          if (i > 39 && this->m_pData[i - 40] == 0x0D)
+
+                                          {
+
+                                              // CRLF
+
+                                              if (i > 40 && this->m_pData[i - 41] == 0x0D)
+
+                                              {
+
+                                                  // CRLF
+
+                                                  if (i > 41 && this->m_pData[i - 42] == 0x0D)
+
+                                                  {
+
+                                                      // CRLF
+
+                                                      if (i > 42 && this->m_pData[i - 43] == 0x0D)
+
+                                                      {
+
+                                                          // CRLF
+
+                                                          if (i > 43 && this->m_pData[i - 44] == 0x0D)
+
+                                                          {
+
+                                                              // CRLF
+
+                                                              if (i > 44 && this->m_pData[i - 45] == 0x0D)
+
+                                                              {
+
+                                                                  // CRLF
+
+                                                                  if (i > 45 && this->m_pData[i - 46] == 0x0D)
+
+                                                                  {
+
+                                                                      // CRLF
+
+                                                                      if (i > 46 && this->m_pData[i - 47] == 0x0D)
+
+                                                                      {
+
+                                                                          // CRLF
+
+                                                                          if (i > 47 && this->m_pData[i - 48] == 0x0D)
+
+                                                                          {
+
+                                                                              // CRLF
+
+                                                                              if (i > 48 && this->m_pData[i - 49] == 0x0D)
+
+                                                                              {
+
+                                                                                  // CRLF
+
+                                                                                  if (i > 49 && this->m_pData[i - 50] == 0x0D)
+
+                                                                                  {
+
+                                                                                      // CRLF
+
+                                                                                      if (i > 50 && this->m_pData[i - 51] == 0x0D)
+
+                                                                                      {
+
+                                                                                          // CRLF
+
+                                                                                          if (i > 51 && this->m_pData[i - 52] == 0
+x0D)
+
+                                                                                          {
+
+                                                                                              // CRLF
+
+                                                                                              if (i > 52 && this->m_pData[i - 53]
+== 0x0D)
+
+                                                                                              {
+
+                                                                                                  // CRLF
+
+                                                                                                  if (i > 53 && this->m_pData[i -
+54] == 0x0D)
+
+                                                                                                  {
+
+                                                                                                      // CRLF
+
+                                                                                                      if (i > 54
+Line Texts: ['WED', '........................', '-', '......']
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 3. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 17 but sum of lengths of text lines is 40. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: EAST - . - DETOUR
+Line Texts: ['........................L', 'EAST', 'DETOUR', '-.']
+WARNING:root:gpt-3.5-turbo produced a response of length 45 but sum of lengths of text lines is 135. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Stop Reading The Week's Best Photography Tips
+Line Texts: ['Walt Vin', '----------------------M', 'Stop Reids Re & cloring10110001111010000001ding', 'None-', '###P', 'Made Bal
+Shotog The Beyour Boo weeking phot']
+WARNING:root:gpt-3.5-turbo produced a response of length 35 but sum of lengths of text lines is 152. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Forfree recipes, sendaSASEcremailus
+Line Texts: ["tributed byFrieda's", 'www.friedas.com-', 'NO BOX5848,LA,CA9005', 'Certified Orsganic by GOCA', 'mal@friedascomorcal
+l800-241-177T', 'Forfree recipes,sendaSASEcremailus']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Error communicating with OpenAI: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+WARNING:root:gpt-3.5-turbo produced a response of length 36 but sum of lengths of text lines is 192. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: This Semplor2003 GraBroots MusicInc.
+Line Texts: ['Montered byBob Boyd ast Admbent Digitalwww.mastersng.oc', '2630 Fountandow,SuteHouston,X77057', '1000', 'This Semplo
+r2003 GraBroots MusicInc.', '-', 'F', '1111archet dischetbuted by Cinamoots&Busic Distritsubon']
+WARNING:root:gpt-3.5-turbo produced a response of length 16 but sum of lengths of text lines is 36. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Creative Commons
+Line Texts: ['Creative Cormmonss', 'Creative Connmons']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 17 but sum of lengths of text lines is 42. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Bonanza Boranza I
+Line Texts: ['--------------------------', 'BonanzaBoranzaI']
+WARNING:root:gpt-3.5-turbo produced a response of length 16 but sum of lengths of text lines is 40. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: MIRAFLORES 120DE
+Line Texts: ['MIRAFLORES', '------------------------120DE']
+WARNING:root:gpt-3.5-turbo produced a response of length 97 but sum of lengths of text lines is 33. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: The best spatial ordering of strings using bounding boxes is: "The ave Gmme he adres Sion Street"
+Line Texts: ['he', 'Sion Street', 'Gmme', 'The ave', 'adres']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x582490820>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x4f81cc640>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x53b67c100>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x55f6f1ac0>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x56bf50f40>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x56bf50160>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f0a0>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f910>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f4c0>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6fd30>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6ff40>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f5b0>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x5861b7340>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x5861b7760>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x5861b7820>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6faf0>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f220>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f520>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f850>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x5610bb730>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x55ffda490>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:root:gpt-3.5-turbo produced a response of length 14 but sum of lengths of text lines is 43. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Making Contact
+Line Texts: ['---None----------------------', 'MakingContact']
+WARNING:root:gpt-3.5-turbo produced a response of length 8 but sum of lengths of text lines is 19. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Podurame
+Line Texts: ['-', '-', 'Podurame-None-1']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x582490730>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x56f4774c0>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x56f0e2ac0>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f4f0>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6fd30>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f850>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f3a0>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x569d6f280>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x5645033d0>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x56bf50250>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection bro
+ken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x55f6f1dc0>: Failed to establish a new connection: [Err
+no 8] nodename nor servname provided, or not known')': /v1/chat/completions
+Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/com
+pletions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x55f6f1f70>: Failed to establish a new conn
+ection: [Errno 8] nodename nor servname provided, or not known'))
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 22 but sum of lengths of text lines is 114. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Do_not_reply@apple.com
+Line Texts: ['Do_not_repy@apple.com', 'Do_not_reply@apple.com', 'Do_not_reply@apple.com', 'Do_not_repoly@apple.com', 'Do_not_reply
+@apple.com']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 40 but sum of lengths of text lines is 108. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: irish handmade milk couverture chocolate
+Line Texts: ['chocola100', 'irish handmade milkouverture', 'ish handmade milk couverturechocolate', 'rish handmade muk couverture1
+0']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 33 but sum of lengths of text lines is 81. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: GILLSROUNDED INFRONT(anteriorly.)
+Line Texts: ['GILLSROUNDED INFRONT(anteriorly.)', 'GILLS.AS VEINS:CAPINFUNDIBULIFORM.', '-', '--', 'PES', '-', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 28 but sum of lengths of text lines is 74. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: It's time to enjoy our work.
+Line Texts: ['Page13', 'time toend', "It's", 'the long-hours', 'enjoy ourwork', 'Cat Boycd:', 'lifestylend']
+WARNING:root:gpt-3.5-turbo produced a response of length 11 but sum of lengths of text lines is 23. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Hello World
+Line Texts: ['ello', 'Hello', 'S', '-', 'Welr Yem']
+WARNING:root:gpt-3.5-turbo produced a response of length 5 but sum of lengths of text lines is 18. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Acres
+Line Texts: ['Acres', '301,386,8600']
+WARNING:root:gpt-3.5-turbo produced a response of length 87 but sum of lengths of text lines is 344. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: You'll find yourself looking for opportunities to do it, and actually enjoying traffic.
+Line Texts: ['transmission lets you shift', 'smoothlyntofirst-not', 'down', 'give racing', 'developedto', 'box wa:', "Porsche's_ge
+ar", "You'll fincyourselflooking for opportunities to do", 'it,and', 'actuallynjoying traffic.', 'just second and third gearwhilet
+he caris', 'in motion.', 'brakes.Itill do the same for you.Synchromesh', 'ance.on', 'completeand positiive contro|with minimum rel
+i-', 'drivers']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 24 but sum of lengths of text lines is 90. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: 3.600 4.200 4.800 95.400
+Line Texts: ['95.4002917.4004929.400', '3.600 2015.6004627.600', '4.2002716.2004728.21DE', '4.8002816.8004828.800']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 17 but sum of lengths of text lines is 55. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: PEACE BE WITH YOU
+Line Texts: ['-', '-', 'contecker-king', '-', '-', 'PEACE BE WITH YOU', 'Char/Nation', "-'"]
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 98 but sum of lengths of text lines is 287. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: THE OFFICIAL STORY IS A BIG LIE. AFTER 9/11, DEMAND TRUTH AND JUSTICE NOW. OUR NATION IS IN PERIL.
+Line Texts: ['WAYSTO', 'LA', 'OUR DEIMOCRATTA', '----------MOCRATC REPUBLIC', '-', 'CT COURAGEN IS IN PERIA', '-', '-', '-', 'AFTE
+R', 'DEMAND 9/11TRUTHA & QUICKLY', 'THE OFFICIAL STORYISABI', '11', 'ESTOREnm', 'H & JUSTICENOW', '9/44.WL', '--------------------
+-----', 'CLI', '...................-----------------------.', '11', 'AN INSIDIJOT', 'OUR NATION IS100', '--']
+WARNING:root:gpt-3.5-turbo produced a response of length 107 but sum of lengths of text lines is 266. The response produced is ass
+umed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Thee201###1- L OUED ANDART: -###- BELL- -1441- RUMBSTREET WAY- None -MLK---- I1 --ANCHNone None Milky- None
+Line Texts: ['Thee201###1-', 'FLOWESSIVE LTENTER MALL', '-MLK----', 'BELL-', 'NoneNone', 'NoneTBM9', 'FOWLISTRANG-', 'I1', 'RUMBST
+REET WAY-', '--ANCHNone', 'LARRY20-', 'Milky-', 'SCORY ASIONALPARKLING', 'None', '-1441-', 'None-', '-###-', 'LIMNone###ar', 'LIZZ
+A-SO WESTINCE', 'HIZZA-', '--CHILI-', 'LAMSTIME PORTNone', 'N & PARK1--', 'L OUED ANDART:']
+WARNING:root:gpt-3.5-turbo produced a response of length 15 but sum of lengths of text lines is 41. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: paperam F -: -:
+Line Texts: ['paperam', '-:', 'F', '-', '.........................-']
+WARNING:root:Paragraph has more tokens than permitted for gpt-3.5-turbo. Using geometrical order instead.
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 6 but sum of lengths of text lines is 35. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Lifulo
+Line Texts: ['............................', 'Lifulo']
+WARNING:root:gpt-3.5-turbo produced a response of length 8 but sum of lengths of text lines is 22. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: CAR BOBi
+Line Texts: ['42 CAR BOBi', '0 800 1 0-']
+WARNING:root:gpt-3.5-turbo produced a response of length 5 but sum of lengths of text lines is 11. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: 0 - N
+Line Texts: ['N', '-', '0', '...', '-']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 5. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '4', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 3. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 5 but sum of lengths of text lines is 33. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: my wh
+Line Texts: ['my', '-', '-', '-----------------------', 'wh']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 3. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 3. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 64 but sum of lengths of text lines is 324. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: GoodrichRadial990's for safe,high speed performance and comfort.
+Line Texts: ["GoodrichRadial990's for safe,high", 'speed performance and comfort.', 'noisy andharsh-out not thee 990! Tread', 'for
+', 'smoother, softer ride. Fit Bhigh', 'aggressiveely patterrned tread.And the', 'elementpacing waas computer-design--', 'formance
+characteeristics isusually', 'ed to keep downnoise from suchan', "990's sidee-walls arestronget flexible-"]
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 25 but sum of lengths of text lines is 52. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: AS AR R WITH 32 6451 SALE
+Line Texts: ['AR', 'WITH', 'AS', 'SALE', '32', 'R', '1111011111111111111111111:', '6451']
+HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:Paragraph has more tokens than permitted for gpt-3.5-turbo. Using geometrical order instead.
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 66 but sum of lengths of text lines is 309. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: attiks Beewey er17 ifrik jelle! Lin! Meen! mpark mtin pou WAR yesc
+Line Texts: ['areke', 'pou', '-', 'WAR', '-', '1', 'Meen!', '-', 'mtin', '1100', '-', 'Beewey', '10', 'ifrik', 'VIm', 'Lin!', '177
+99776', 'jelle!', 'yesc', '-', '-', 'whidebr', 'x/m', '-', 'cilefen', '--', 'mo', '-', 'BAR', 'attiks', '-', '-', 'Pressionesscent
+er', '-', 'arthersonal', 'R', 'lewisnyman.5n', '--', 'er17', 'hedd', 'U', '1334776', 'mpark', '--', 'Apmen', '-', 'akalata', '95',
+ 'm8001', 'guyen', 'eights', '23', '11', '"Ovevereid', 'www.straphystens.........', '-', '-', 'renuget', 'L']
+WARNING:root:gpt-3.5-turbo produced a response of length 19 but sum of lengths of text lines is 40. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: camps around CGoma.
+Line Texts: ['His touching ph', '--', '-', 'camps around CGoma.']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 24 but sum of lengths of text lines is 62. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: EARTH LIGHT AND WEELAWAY
+Line Texts: ['NoneS', '-', 'EARTH LIGHT', 'AND WEELAWAY', '-', 'M TH', 'TO DELONTR', 'EARTHINGHTN']
+WARNING:root:gpt-3.5-turbo produced a response of length 18 but sum of lengths of text lines is 74. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: SPL-: Wondelle: -2
+Line Texts: ['1', 'SPL--------------------------Lam', '.......................', 'Wondelle:', '-:', '-2']
+WARNING:root:gpt-3.5-turbo produced a response of length 11 but sum of lengths of text lines is 36. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: YANTA K COM
+Line Texts: ['.........................COM', 'YANTA', 'K']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:Paragraph has more tokens than permitted for gpt-3.5-turbo. Using geometrical order instead.
+WARNING:root:gpt-3.5-turbo produced a response of length 3687 but sum of lengths of text lines is 347. The response produced is as
+sumed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: www.wook.com/laling T21 545163to 19/4 be -100 7320JUSTA -west 02452034200 L None-24 -100 Fa 00 - - - - R - - No 22224 -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Line Texts: ['0', 'He', 'UNDREWARE1251', 'Jo', 'Sta', '-', '-', '-', 'None', 'None-24', 'Apoist', '7320JUSTA', '-', '-', 'None', '
+-', 'T21', '100', 'grauding', '545163to', 'www.wook.com/laling', '00', 'Fa', '-', '-', 'R', 'x', 'x2', '-', '-', 'suste', '22224',
+ '19/4', 'T', '-', '-', '2', '###', '-', '-west', '-', '-------------------------!', 'P', 'www.mam/michar.com.metlitt', 'A', '1111
+111111111111111111111', '-100', 'L', '-', '-', 'PROVERS', '-', 'StaR--------------------------', '-', '02452034200', '-', '-', '-'
+, '-', '1036', 'No', 'be']
+WARNING:root:gpt-3.5-turbo produced a response of length 69 but sum of lengths of text lines is 155. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: The Foundations for the 1895 Power Plant are in the area to the left.
+Line Texts: ['The Fotindations for thee 1895 1Power Plant', '1899 Povwer Plantare', 'the Foundationsfor the', 'in the area to the
+left.', 'arem', 'the areato the righof thissign while:']
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 27. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: T
+Line Texts: ['T', '-------------------------']
+WARNING:root:gpt-3.5-turbo produced a response of length 45 but sum of lengths of text lines is 99. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: HAY POCO TIEMPO PARA REDIRIGIR NUESTRO FUTURO
+Line Texts: ["HAY POCO 1TIEMPOO PARA REDIRIGIRNUES'TRO FUJTURO)", 'DE JULI1020122', '1', 'FOTOCCOPIAYREGALAESTAINFORMACION']
+WARNING:root:gpt-3.5-turbo produced a response of length 49 but sum of lengths of text lines is 99. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: HAY FPOCOTIEMPPO PARA REEDIRIGGIR NLJESTRO FUTURO
+Line Texts: ['DE JULIO20122', '-', 'FOTOCCOPIAYREGAALAESTAINFORMACION', 'HAY FPOCOTIEMPPO PARA REEDIRIGGIR NLJESTRO FUTURO']
+WARNING:root:gpt-3.5-turbo produced a response of length 47 but sum of lengths of text lines is 97. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: HAY FPOCOTIEMPPO PARA REDIRIGIR NLJESTRO FUTURO
+Line Texts: ['FOTOCOPIAYREGAILAESTAINFOIRMACION', 'HAY FPOCOTIEMPPO PARA REDIRIGIR NLJESTRO FUTURO', '-', 'DE JULIO2012:']
+WARNING:root:gpt-3.5-turbo produced a response of length 45 but sum of lengths of text lines is 98. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: HAY POCO TIEMPO PARA REDIRIGIR NUESTRO FUTURO
+Line Texts: ['FOTOCOPIAYREGALAESTAINFORMMACIONT', 'DE JUL102012', '1', 'HAY POCO TIIEMPO PARA RIEDIRIGIR NUESSTRO FUJTURO']
+WARNING:root:gpt-3.5-turbo produced a response of length 45 but sum of lengths of text lines is 96. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: HAY POCO TIEMPO PARA REDIRIGIR NUESTRO FUTURO
+Line Texts: ['-', 'DE JULIO20122', 'FOTOCOPIAYREGALAESTAINNFORMMACIOIV', 'HAY POCO TIEMPOPARAREDIRIGIR NIJESTRO> FUTURO']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 13 but sum of lengths of text lines is 36. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: 0844 84440444
+Line Texts: ['WWW.TICKETMASTER.CO.UK', '0844 84440444']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 105 but sum of lengths of text lines is 42. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: The best spatial ordering of strings using bounding boxes is: "$400 OG The P Issues Orele Two $6 / .each"
+Line Texts: ['$6', '$400', 'OG', 'Issues Orele Two', 'The P', '/', '/.each']
+WARNING:root:gpt-3.5-turbo produced a response of length 24 but sum of lengths of text lines is 50. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Tarka Trail Schoo - N LL
+Line Texts: ['N', 'LL', '.........................', '-', 'Tarka Trail', 'Schoo']
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 3. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 11 but sum of lengths of text lines is 23. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: EARTH TALES
+Line Texts: ['TALESHEI', 'E-EARTHDMIDDL~']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 8 but sum of lengths of text lines is 17. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Y XT A -
+Line Texts: ['-', 'A', 'XT', 'Y 051986SH']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 40 but sum of lengths of text lines is 89. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Please reuse this mask with your service
+Line Texts: ['Mulch can causeuseamask', 'cancauseespiratory proveORS', 'Please reuse thisbaiqwith yourservice']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 11 but sum of lengths of text lines is 37. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: VOXIA, BOOK
+Line Texts: ['VOXIA,', 'BOOK', '.........................']
+Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+WARNING:root:gpt-3.5-turbo produced a response of length 6949 but sum of lengths of text lines is 208. The response produced is as
+sumed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Line Texts: ['RITZ.HOTT', 'A', 'TZ MORITMORITZ//CERVEZAS', 'UZARFCo.del', 'GROUGH', '-', 'IRITZ', 'RI', 'TZMORITZMORITZ', '--', 'I
+TZ', 'MORITZ MORITZ', 'MORI', 'PRITZEO', 'ROMO', '-', 'MI', 'NORO', 'morika', 'TITZ', 'elzas MORITZMORITZ', 'MORnZI', 'ORITZ MOS',
+ 'ORITION', 'ORTZInIZA', 'MORITZ', '--', 'M']
+WARNING:root:gpt-3.5-turbo produced a response of length 6408 but sum of lengths of text lines is 288. The response produced is as
+sumed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ M
+ORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORIT
+Z MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MO
+RITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+ITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ
+MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MORI
+TZ MORITZ MORITZ MORITZ MORITZ MORITZ MORITZ MOR
+Line Texts: ['ORITZ', '-m', 'MORITZ', 'MORITZ', 'ZORTZ MORITZ', 'ORITZ-10112', 'RITZ MORITZ', 'R-MORITZTZ.H', 'Moriti', 'MORITz',
+'ORITZ CRVEZAS', 'MORITZRITZMORITZAOI', 'MORITZ MCR', 'RIAMO', 'MORIT', '----###--------------------------L', 'SMORITZ', 'ORIT', '
+MORITZ', 'AORITZ', 'HOROZA', 'OBITZH', 'RITZ', "MORITZ'RI", 'MORIT', 'TZER:', 'MORITTEE', '-', 'Moritz,', '10--', '-', '--', 'ONIM
+A:', 'MOR17']
+WARNING:root:gpt-3.5-turbo produced a response of length 16 but sum of lengths of text lines is 45. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: I NGA NA JWINAI?
+Line Texts: ['-', '-', '#########################I NGA NA JWINAI?']
+WARNING:root:gpt-3.5-turbo produced a response of length 1 but sum of lengths of text lines is 5. The response produced is assumed
+ to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: -
+Line Texts: ['-', '-', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 29 but sum of lengths of text lines is 63. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: Policitionsdesignational CENT
+Line Texts: ['CENT--------------------------None-', 'Policitionsdesignational---']
+WARNING:root:gpt-3.5-turbo produced a response of length 16 but sum of lengths of text lines is 40. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: SOUL DOCTOR SEAS
+Line Texts: ['SEAS', '.......................', 'SOUL', 'DOCTOR']
+WARNING:root:gpt-3.5-turbo produced a response of length 24 but sum of lengths of text lines is 51. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: BEST MUSICAL 8TONYAWARDS
+Line Texts: ['BEST MUSICAL', '.........................:', '8TONYAWARDS']
+WARNING:root:Paragraph has more tokens than permitted for gpt-3.5-turbo. Using geometrical order instead.
+WARNING:root:Paragraph has more tokens than permitted for gpt-3.5-turbo. Using geometrical order instead.
+WARNING:root:gpt-3.5-turbo produced a response of length 122 but sum of lengths of text lines is 59. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: The best spatial ordering of strings using bounding boxes is:
+"CEYLAN BREAKFAST EARLency- The Aveviganess- Wateractive---"
+Line Texts: ['EARLency-', "The Aveviganess-'", 'CEYLAN BREAKFAST', 'Wateractive---']
+WARNING:root:gpt-3.5-turbo produced a response of length 24 but sum of lengths of text lines is 52. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: 125 ST01307 sloughJ rlai
+Line Texts: ['rlai', '125 ST01307', 'sloughJ', '.........................JU']
+WARNING:root:Paragraph has more tokens than permitted for gpt-3.5-turbo. Using geometrical order instead.
+WARNING:root:gpt-3.5-turbo produced a response of length 3 but sum of lengths of text lines is 29. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: GUA
+Line Texts: ['-------------------------', 'GUA']
+Request failed due to server shutdown {
+  "error": {
+    "message": "Request failed due to server shutdown",
+    "type": "server_error",
+    "param": null,
+    "code": null
+  }
+}
+ 500 {'error': {'message': 'Request failed due to server shutdown', 'type': 'server_error', 'param': None, 'code': None}} {'Date':
+ 'Thu, 19 Oct 2023 21:32:04 GMT', 'Content-Type': 'application/json', 'Content-Length': '141', 'Connection': 'keep-alive', 'access
+-control-allow-origin': '*', 'openai-model': 'gpt-3.5-turbo-0613', 'openai-organization': 'gan-73rnhz', 'openai-processing-ms': '1
+1821', 'openai-version': '2020-10-01', 'strict-transport-security': 'max-age=15724800; includeSubDomains', 'x-ratelimit-limit-requ
+ests': '3500', 'x-ratelimit-limit-tokens': '90000', 'x-ratelimit-remaining-requests': '3499', 'x-ratelimit-remaining-tokens': '898
+24', 'x-ratelimit-reset-requests': '17ms', 'x-ratelimit-reset-tokens': '116ms', 'x-request-id': '6693ad0251cb6d1a272ecaa3e366aec0'
+, 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '818c21633b943c07-BLR', 'alt-svc': 'h3=":443"; ma=86400'}
+WARNING:root:gpt-3.5-turbo produced a response of length 53 but sum of lengths of text lines is 148. The response produced is assu
+med to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: "Head",bare vor domAblegen inOnlis am 21L Just Street
+Line Texts: ['"Moud"joulbellore digwtere fromdelin, 25th Jue1913', '"Head",bare vor domAblegen inOnlis am 21L Just Street', '"Maud
+"likefor avsellingfra Osio 25.uni 1918']
+WARNING:root:gpt-3.5-turbo produced a response of length 7762 but sum of lengths of text lines is 48. The response produced is ass
+umed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Line Texts: ['EiSeRSUCHT', 'IIIIIIIIIII', 'IIIIIIIIIIIIIIIIIIIIIIIII']
+WARNING:root:gpt-3.5-turbo produced a response of length 6 but sum of lengths of text lines is 31. The response produced is assume
+d to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: 15,900
+Line Texts: ['5,500', '...10', '-', ',', '15.000', '15,900', '-']
+WARNING:root:gpt-3.5-turbo produced a response of length 17839 but sum of lengths of text lines is 93. The response produced is as
+sumed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: VOCITIES-EDITORIAT 127878E 1352000 RED BASTONFEISH BRAGF100 1111111111111111111111111 - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 1) * 2;
+        }
+        else if (this->m_pData[i] == 0x0D)
+        {
+            if (this->m_pData[i + 1] == 0x0A)
+            {
+                // CRLF
+                if (i > 0 && this->m_pData[i - 1] == 0x0D)
+                {
+                    // CRLF
+                    if (i > 1 && this->m_pData[i - 2] == 0x0D)
+                    {
+                        // CRLF
+                        if (i > 2 && this->m_pData[i - 3] == 0x0D)
+                        {
+                            // CRLF
+                            if (i > 3 && this->m_pData[i - 4] == 0x0D)
+                            {
+                                // CRLF
+                                if (i > 4 && this->m_pData[i - 5] == 0x0D)
+                                {
+                                    // CRLF
+                                    if (i > 5 && this->m_pData[i - 6] == 0x0D)
+                                    {
+                                        // CRLF
+                                        if (i > 6 && this->m_pData[i - 7] == 0x0D)
+                                        {
+                                            // CRLF
+                                            if (i > 7 && this->m_pData[i - 8] == 0x0D)
+                                            {
+                                                // CRLF
+                                                if (i > 8 && this->m_pData[i - 9] == 0x0D)
+                                                {
+                                                    // CRLF
+                                                    if (i > 9 && this->m_pData[i - 10] == 0x0D)
+                                                    {
+                                                        // CRLF
+                                                        if (i > 10 && this->m_pData[i - 11] == 0x0D)
+                                                        {
+                                                            // CRLF
+                                                            if (i > 11 && this->m_pData[i - 12] == 0x0D)
+                                                            {
+                                                                // CRLF
+                                                                if (i > 12 && this->m_pData[i - 13] == 0x0D)
+                                                                {
+                                                                    // CRLF
+                                                                    if (i > 13 && this->m_pData[i - 14] == 0x0D)
+                                                                    {
+                                                                        // CRLF
+                                                                        if (i > 14 && this->m_pData[i - 15] == 0x0D)
+                                                                        {
+                                                                            // CRLF
+                                                                            if (i > 15 && this->m_pData[i - 16] == 0x0D)
+                                                                            {
+                                                                                // CRLF
+                                                                                if (i > 16 && this->m_pData[i - 17] == 0x0D)
+                                                                                {
+                                                                                    // CRLF
+                                                                                    if (i > 17 && this->m_pData[i - 18] == 0x0D)
+                                                                                    {
+                                                                                        // CRLF
+                                                                                        if (i > 18 && this->m_pData[i - 19] == 0x0
+D)
+                                                                                        {
+                                                                                            // CRLF
+                                                                                            if (i > 19 && this->m_pData[i - 20] ==
+ 0x0D)
+                                                                                            {
+                                                                                                // CRLF
+                                                                                                if (i > 20 && this->m_pData[i - 21
+] == 0x0D)
+                                                                                                {
+                                                                                                    // CRLF
+                                                                                                    if (i > 21 && this->m_pData[i
+- 22] == 0x0D)
+                                                                                                    {
+                                                                                                        // CRLF
+                                                                                                        if (i > 22 && this->m_pDat
+a[i - 23] == 0x0D)
+                                                                                                        {
+                                                                                                            // CRLF
+                                                                                                            if (i > 23 && this->m_
+pData[i - 24] == 0x0D)
+                                                                                                            {
+                                                                                                                // CRLF
+                                                                                                                if (i > 24 && this
+->m_pData[i - 25] == 0x0D)
+                                                                                                                {
+                                                                                                                    // CRLF
+                                                                                                                    if (i > 25 &&
+this->m_pData[i - 26] == 0x0D)
+                                                                                                                    {
+                                                                                                                        // CRLF
+                                                                                                                        if (i > 26
+ && this->m_pData[i - 27] == 0x0D)
+                                                                                                                        {
+                                                                                                                            // CRL
+F
+                                                                                                                            if (i
+> 27 && this->m_pData[i - 28] == 0x0D)
+                                                                                                                            {
+                                                                                                                                //
+ CRLF
+                                                                                                                                if
+ (i > 28 && this->m_pData[i - 29] == 0x0D)
+                                                                                                                                {
+
+  // CRLF
+
+  if (i > 29 && this->m_pData[i - 30] == 0x0D)
+
+  {
+
+      // CRLF
+
+      if (i > 30 && this->m_pData[i - 31] == 0x0D)
+
+      {
+
+          // CRLF
+
+          if (i > 31 && this->m_pData[i - 32] == 0x0D)
+
+          {
+
+              // CRLF
+
+              if (i > 32 && this->m_pData[i - 33] == 0x0D)
+
+              {
+
+                  // CRLF
+
+                  if (i > 33 && this->m_pData[i - 34] == 0x0D)
+
+                  {
+
+                      // CRLF
+
+                      if (i > 34 && this->m_pData[i - 35] == 0x0D)
+
+                      {
+
+                          // CRLF
+
+                          if (i > 35 && this->m_pData[i - 36] == 0x0D)
+
+                          {
+
+                              // CRLF
+
+                              if (i > 36 && this->m_pData[i - 37] == 0x0D)
+
+                              {
+
+                                  // CRLF
+
+                                  if (i > 37 && this->m_pData[i - 38] == 0x0D)
+
+                                  {
+
+                                      // CRLF
+
+                                      if (i > 38 && this->m_pData[i - 39] == 0x0D)
+
+                                      {
+
+                                          // C
+Line Texts: ['-', '1111111111111111111111111', 'RED BASTONFEISH BRAGF100', 'VOCITIES-EDITORIAT', '-', '-', '1352000', '127878E', '
+-']
+WARNING:root:gpt-3.5-turbo produced a response of length 17 but sum of lengths of text lines is 39. The response produced is assum
+ed to be wrong due to this discrepancy in lengths. Using geometrical order instead.
+Response: BESTORY DOME: - -
+Line Texts: ['----------------------BESTORY', 'DOME:', '-', '-']
+(unified_detector_parseq) snoopy@Ganeshs-MBP block_ocr %
